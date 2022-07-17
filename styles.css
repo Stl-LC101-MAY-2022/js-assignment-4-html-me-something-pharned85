@@ -1,6 +1,7 @@
 body {
     background-color: #f2fcff;
-    margin: 0; 
+    display: block;
+    margin: 8; 
     padding: 0; 
     border: 0; 
     outline: 0;
@@ -65,7 +66,7 @@ header {
   width: 100vw;
 }
 
-.main-content {
+.main {
   background-color: white;
   padding-top: 4em;
   margin-left: 10%;
@@ -75,11 +76,16 @@ header {
   padding-bottom: 10%;
 }
 
+
 .hero-text {
   margin-left: 20%;
   margin-right:20%; 
   margin-bottom: 2em;
 }
+
+#mainheading {
+  background-color: red;
+ }
 
 h1 {
     float: center;
@@ -114,6 +120,15 @@ p {
     font-family: 'Open Sans';
 }
 
+#testp {
+    background-color: gray;
+}
+
+.funparagraph {
+  font-weight: bold;
+  color: green;
+}
+
 a {
   color: blue;
 }
@@ -123,6 +138,14 @@ a:hover {
   animation-delay: 2ms;
 }
 
+ol {
+  font-family: 'Open Sans';
+}
+
+li {
+  margin-bottom: 2em;
+}
+
 #center {
   display: block;
   margin-left: auto;
@@ -130,6 +153,7 @@ a:hover {
   width: 50%;
 }
   
+
   .button {
     background-color: orangered;
     font-family: Raleway;
