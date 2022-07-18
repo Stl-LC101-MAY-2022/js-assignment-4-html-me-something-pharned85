@@ -37,7 +37,7 @@ body {
 }
 
 #nav-li {
-  font-family: Raleway;
+  font-family: Helvetica;
   font-weight: bold;
   display:inline;
   text-transform: uppercase;
@@ -89,7 +89,7 @@ header {
 
 h1 {
     float: center;
-    font-family: Raleway;
+    font-family: Helvetica;
     color: blue;
     background-color: yellow;
     font-size: 4em;
@@ -97,27 +97,27 @@ h1 {
 }
 
 h2 {
-    font-family: Raleway;
+    font-family: Helvetica;
     color: blue;
     font-size: 2em;
     margin-bottom: 1em;
 }
 
 h3 {
-    font-family: Raleway;
+    font-family: Helvetica;
     font-size: 1.25em;
     height: 1em;
 }
 
 
 article {
-  font-family: 'Open Sans';
+  font-family: 'Franklin Gothic Medium';
   padding-bottom: 1em;
 }
 
 
 p {
-    font-family: 'Open Sans';
+    font-family: 'Franklin Gothic Medium';
 }
 
 #testp {
@@ -139,7 +139,7 @@ a:hover {
 }
 
 ol {
-  font-family: 'Open Sans';
+  font-family: 'Franklin Gothic Medium';
 }
 
 li {
@@ -156,7 +156,7 @@ li {
 
   .button {
     background-color: orangered;
-    font-family: Raleway;
+    font-family: Helvetica;
     font-weight: bold;
     text-transform: uppercase;
     color: white;
