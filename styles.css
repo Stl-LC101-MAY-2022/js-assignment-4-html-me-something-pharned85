@@ -110,6 +110,10 @@ h3 {
     height: 1em;
 }
 
+#mainHeading {
+  background-color: gray;
+  color: red
+ }
 
 article {
   font-family: 'Franklin Gothic Medium';
@@ -194,7 +198,5 @@ li {
     font-size: 0.75em;
   }
 
-  #mainHeading {
-    background-color: red;
-   }
+  
 
