@@ -83,7 +83,7 @@ header {
   margin-bottom: 2em;
 }
 
-#mainheading {
+#mainHeading {
   background-color: red;
  }
 
@@ -194,7 +194,7 @@ li {
   }
 
 
-funparagraph {
+.funParagraph {
   font-weight: bold;
   color: green;
 }
