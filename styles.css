@@ -7,6 +7,11 @@ body {
     outline: 0;
 }
 
+.funParagraph {
+  font-weight: bold;
+  color: green;
+}
+
 .topnav {
   background-color: yellow;
   overflow: hidden;
@@ -82,10 +87,6 @@ header {
   margin-right:20%; 
   margin-bottom: 2em;
 }
-
-#mainHeading {
-  background-color: red;
- }
 
 h1 {
     float: center;
@@ -193,8 +194,7 @@ li {
     font-size: 0.75em;
   }
 
+  #mainHeading {
+    background-color: red;
+   }
 
-.funParagraph {
-  font-weight: bold;
-  color: green;
-}
