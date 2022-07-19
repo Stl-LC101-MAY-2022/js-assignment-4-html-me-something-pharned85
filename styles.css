@@ -120,14 +120,7 @@ p {
     font-family: 'Franklin Gothic Medium';
 }
 
-#testp {
-    background-color: gray;
-}
 
-.funparagraph {
-  font-weight: bold;
-  color: green;
-}
 
 a {
   color: blue;
@@ -199,3 +192,12 @@ li {
     color: orangered;
     font-size: 0.75em;
   }
+
+  #testp {
+    background-color: gray;
+}
+
+.funparagraph {
+  font-weight: bold;
+  color: green;
+}
